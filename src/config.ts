@@ -1,16 +1,16 @@
 export const siteConfig = {
   name: "Chenyu Niu",
-  title: "Senior Student at Peking University",
+  title: "First-year PhD Student",
   description: "Portfolio website of Chenyu Niu",
   accentColor: "#1d4ed8",
   social: {
-    email: "2200017838@stu.pku.edu.cn",
+    email: "niuchenyu_0505@stu.pku.edu.cn",
     github: "https://github.com/asuka-su",
     bangumi: "https://bgm.tv/user/894993", 
   },
   aboutMe:
-    "I'm Chenyu Niu, currently a senior student majoring computer science and technology at Yuanpei College, Peking University. It's my fortune to work as a research intern with Spatial and Temporal Restoration, Understanding and Compression Team (STRUCT) of Wangxuan Institute of Computer Technology. My current research interest lies in image generation and restoration.",
-  projects: [
+    "I'm Chenyu Niu, currently a first-year PhD student majoring computer science and technology at Peking University. It's my fortune to join Spatial and Temporal Restoration, Understanding and Compression Team (STRUCT) of Wangxuan Institute of Computer Technology. My current research interest lies in image generation and stylization.",
+    projects: [
     {
       name: "[ICME 2026] SPDiff: Enhancing Diffusion Models for Scalable Periodic Image Generation",
       description:
